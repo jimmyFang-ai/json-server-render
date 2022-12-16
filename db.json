@@ -3,29 +3,16 @@
     {
       "name": "Mei",
       "email": "Mei@gmail.com",
-      "password": "$2a$10$DaBkgyY1ufWzM3BNDeAGQ.6h/vtCyQCPorTxR2hVP8vuApBOORzUS",
+      "password": "123456",
       "id": 2,
       "role": "user"
     },
     {
-      "name": "Mary",
-      "email": "Mary@gmail.com",
-      "password": "22221111",
+      "name": "Jimmy",
+      "email": "Jimmy@gmail.com",
+      "password": "123456",
       "id": 3,
-      "role": "user"
-    },
-    {
-      "name": "Tina",
-      "email": "Tina@gmail.com",
-      "password": 1220033,
-      "role": "user",
-      "id": 4
-    },
-    {
-      "email": "Bill@gmail.com",
-      "password": "$2a$10$IHUisoBQYzvDpWv70ZwXB.jHB0TNkhffpaZc.m3th1GD7hgV17t0a",
-      "name": "Bill",
-      "id": 5
+      "role": "admin"
     }
   ],
   "courses": [
@@ -244,7 +231,7 @@
   "orders": [
     {
       "id": 2,
-      "userId": "2",
+      "userId": 2,
       "create_at": 1670324965561,
       "info": {
         "name": "Mei",
