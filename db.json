@@ -1,18 +1,18 @@
 {
   "users": [
     {
-      "name": "Mei",
-      "email": "Mei@gmail.com",
-      "password": "123456",
+      "email": "alexFang@yahoo.com.tw",
+      "password": "$2a$10$V89XpT2Gs1UzEqes1GdqQus7QdanbgkzoeT3F9zOC1o7pgkBIGK.O",
+      "name": "alexfang",
       "id": 2,
-      "role": "user"
+      "role": "admin"
     },
     {
-      "name": "Jimmy",
-      "email": "Jimmy@gmail.com",
-      "password": "123456",
+      "email": "meiWu@yahoo.com.tw",
+      "password": "$2a$10$XDZMdplAbzz9uDF/PmkMMOEjZyG2e36oa5wt57HpqdGsM.fxZeC8.",
+      "name": "mei",
       "id": 3,
-      "role": "admin"
+      "role": "user"
     }
   ],
   "courses": [
@@ -226,6 +226,58 @@
       "courseId": 1,
       "qty": 3,
       "id": 4
+    },
+    {
+      "userId": "3",
+      "courseId": "3",
+      "qty": 5,
+      "id": 5
+    },
+    {
+      "userId": "3",
+      "courseId": "3",
+      "qty": 1,
+      "id": 6
+    },
+    {
+      "userId": "3",
+      "courseId": "3",
+      "id": 7
+    },
+    {
+      "userId": "3",
+      "courseId": "3",
+      "id": 8
+    },
+    {
+      "userId": "3",
+      "courseId": "3",
+      "qty": 1,
+      "id": 9
+    },
+    {
+      "userId": "3",
+      "courseId": "3",
+      "qty": 1,
+      "id": 10
+    },
+    {
+      "userId": "3",
+      "courseId": "3",
+      "qty": 3,
+      "id": 11
+    },
+    {
+      "userId": "3",
+      "courseId": "3",
+      "qty": 4,
+      "id": 12
+    },
+    {
+      "userId": "3",
+      "courseId": "3",
+      "qty": 5,
+      "id": 13
     }
   ],
   "orders": [
@@ -271,6 +323,11 @@
       "courseId": 11,
       "userId": 2,
       "id": 4
+    },
+    {
+      "userId": "3",
+      "courseId": "1",
+      "id": 5
     }
   ]
 }
