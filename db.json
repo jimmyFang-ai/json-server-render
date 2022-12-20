@@ -203,36 +203,6 @@
     }
   ],
   "carts": [
-    {
-      "id": 1,
-      "userId": "2",
-      "courseId": "1",
-      "qty": 2
-    },
-    {
-      "id": 2,
-      "userId": "2",
-      "courseId": "1",
-      "qty": 4
-    },
-    {
-      "id": 3,
-      "userId": "3",
-      "courseId": "2",
-      "qty": 1
-    },
-    {
-      "id": 4,
-      "userId": "3",
-      "courseId": "2",
-      "qty": 4
-    },
-    {
-      "userId": "3",
-      "courseId": "3",
-      "qty": 5,
-      "id": 5
-    }
   ],
   "orders": [
     {
@@ -280,7 +250,7 @@
     },
     {
       "userId": "3",
-      "courseId": "1",
+      "courseId": "5",
       "id": 5
     }
   ]
