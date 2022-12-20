@@ -218,20 +218,5 @@
     }
   ],
   "bookmarks": [
-    {
-      "courseId": 6,
-      "userId": 2,
-      "id": 2
-    },
-    {
-      "courseId": 11,
-      "userId": 2,
-      "id": 4
-    },
-    {
-      "userId": "3",
-      "courseId": "5",
-      "id": 5
-    }
   ]
 }
